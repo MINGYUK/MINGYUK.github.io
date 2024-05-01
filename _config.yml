@@ -17,6 +17,7 @@ title: Min-Gyu Kim' blog
 email: manjmin6@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   medical doctor / researcher / application of machine learning in the medical domain
+baseurl: '/'
 twitter_username: manjimin
 github_username: manjimin
 minimal_mistakes_skin: 'dark'
